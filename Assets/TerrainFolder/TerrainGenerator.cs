@@ -10,8 +10,8 @@ public class TerrainGenerator : MonoBehaviour
     private Terrain terrain;
 
     public float scale = 20;
-    public float offsetX = 100f;
-    public float offsetY = 100f;
+    public float offsetX = 20f;
+    public float offsetY = 20f;
 
 
     // Start is called before the first frame update
